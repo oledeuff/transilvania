@@ -19,6 +19,6 @@ Si votre document a été numérisé en mode image, indiquez comment vous avez p
 10. Georges Sand. Laura- Voyage dans le cristal
 11. Jules Verne. Voyage au centre de la terre.
 12. Paul Féval. Les mystères de Londres.
-13. Eugène Sue. Les mystères de Paris.
+13. Eugène Sue. Les mystères de Paris. Abbas Soniya
 14. Paul Otlet. Monde, essai d'universalisme.
 15. Jules Verne. au choix
