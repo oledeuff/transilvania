@@ -16,7 +16,7 @@ Si votre document a été numérisé en mode image, indiquez comment vous avez p
 7. Jules Verne. Le secret de Wilhem Storitz
 8. Robur le conquérant
 9. Vingt mille lieues sous les mers
-10. Georges Sand. Laura- Voyage dans le cristal
+10. Georges Sand. Laura- Voyage dans le cristal - Jean David
 11. Jules Verne. Voyage au centre de la terre.
 12. Paul Féval. Les mystères de Londres.
 13. Eugène Sue. Les mystères de Paris.
