@@ -25,7 +25,7 @@ La digitalisation entraîne beaucoup de changements, les Humanités Digitales n'
 
 Il apparaît qu'il y a une réflexion assez poussée autour des normes, tant dans leurs conceptions que leurs légitimations. Cependant, le web comporte une multiplicité d'entités, et il est compliqué voire impossible d'imposer une norme. Vraisemblablement, la norme ou les normes qui feront foi seront celle qui seront le plus utilisées car elle seront soit les plus proches des demandes, soit les plus simples d'un point de vue technique, voire les deux. L'enjeu de la définition est réel et important pour les Humanités Digitales, car il y autour de ces question tout un enjeu ontologique, qui rédifinirait peut-être les Humanités Digitales en elles-mêmes.  
 
-## Conlusion
+## Conclusion
 
 Finalement, pour répondre à la question initiale, la digitalisation apporte beaucoup de changements aux Humanités Digitales et ouvre la porte à énormément d'opportunités. Cependant celles-ci sont si nombreuse qu'il peut devenir difficile d'envisager totalement tout le champ des possibles. Que ce soit pour la recherche en elle-même, ou juste pour l'accès à de nouvelles ressources, il faut essayer de déterminer ce qui est le plus pertinent dans toutes ces options. A mon sens, la digitalisation est très positive car elle permet aux Humanités Digitales d'évoluer en fonction des apports progressives qui seront fait soit par des usages soit par des définitions.
 
