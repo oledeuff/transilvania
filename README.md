@@ -25,6 +25,8 @@ Le dossier doit comprendre :
 7. Bonus : le fichier gephi des relations entre les mots.
 8. Bonus : tous les fichiers qui potentiellement pourront être réexploités par la suite pour d'autres recherches.
 
+#IMPORTANT Il vous faut avoir un compte Github pour réaliser l'exercice afin de pouvoir avoir son propre espace, mais surtout pour pouvoir effectuer une pull request sur le répertoire transilvania. Pour cela il faut que je vous ajoute en tant que collaborateur.
+
 # Remise du travail. Deadline : *15 décembre 2018.*
 
 Listes des oeuvres à étudier.https://github.com/oledeuff/transilvania/blob/master/listesoeuvres
