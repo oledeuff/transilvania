@@ -22,6 +22,9 @@ Enfin, un des risques avec la digitalisation de l'oeuvre et donc le fait de pouv
 
 ## Webographie 
 [As We May Thinkn, Vannevar Bush, 1945](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+
 [Présentation de l'analyse textuelle, Paul Delbouille, 1967](https://www.persee.fr/doc/bude_0004-5527_1967_num_1_1_2965)
+
 [Lecture à la découpe : Amazon paiera les auteurs à la page lue, Olivier Ertzscheid, 2015](https://affordance.typepad.com//mon_weblog/2015/06/lecture-a-la-decoupe.html)
+
 [Les humanités digitales précèdent-elle le numérique ?, Olivier Le Deuff, 2015](https://archivesic.ccsd.cnrs.fr/sic_01220978/document)
