@@ -7,7 +7,7 @@
 ### Recherche des ressources et formatage du texte
 
 
-Afin de pouvoir étudier l'ouvrage de Jules Verne «**Robur le conquérant**» il fallait récupérer une version textuelle modulable selon le besoin. Pour ce faire j'ai dû me servir de la version proposée par [wikisource](https://fr.wikisource.org/wiki/Robur_le_conqu%C3%A9rant) qui fournit le texte intégral en deux formats ([TXT](/Jules_Verne_Robur_le_conquérant.txt) et PDF). J'ai aussi retrouvé d'autres ressources sur [gutenberg](http://www.gutenberg.org/ebooks/5126), notamment d'autres formats ([EPUB](/Verne-Robur_le_conquerant.epub) et Kindle).
+Afin de pouvoir étudier l'ouvrage de Jules Verne «**Robur le conquérant**» il fallait récupérer une version textuelle modulable selon le besoin. Pour ce faire j'ai dû me servir de la version proposée par [wikisource](https://fr.wikisource.org/wiki/Robur_le_conqu%C3%A9rant) qui fournit le texte intégral en deux formats ([TXT](Jules_Verne_Robur_le_conquÇrant.txt) et PDF). J'ai aussi retrouvé d'autres ressources sur [gutenberg](http://www.gutenberg.org/ebooks/5126), notamment d'autres formats ([EPUB](Verne-Robur_le_conquerant.epub) et Kindle).
 
 > Il faut dire qu'avoir la version textuelle au format txt m'a vraiment facilité la tâche car cela m'évite de chercher des solutions pour transformer des fichiers au format (pdf, epub, doc, etc.) en txt, qui suite à ce traitement pourront être susceptibles de contenir plusieurs fautes et/ou erreurs. 
 
@@ -39,8 +39,8 @@ Une fois sur le logiciel et après avoir importé le texte j'ai obtenu ce tablea
 
 On peut remarquer déjà depuis ce logarithme qu'il y une forte densité de mots ayant peu d'occurrences, on peut en déduire donc que l'auteur a tendance à épuiser ces ressources de vocabulaire afin d'enrichir son oeuvre et peut-être attirer l'attention du lecteur en lui poussant à chercher le sens de ces mots.
 
-Suite à l'importation du corpus dans le logiciel iramuteq, on peut désormer avoir plusieurs tableaux CSV permettant de voir la fréquence des mots dans l'oeuvre ainsi que leurs types. Dans mon analyse je n'ai quasiment utilisé que les formes-actives mais j'ai ajouté sous le dossier [csv](/csv) les deux autres bases de données ([formes_supplémentaires.csv
-](/csv/formes_supplémentaires.csv) et [total.csv](csv/total.csv)).
+Suite à l'importation du corpus dans le logiciel iramuteq, on peut désormer avoir plusieurs tableaux CSV permettant de voir la fréquence des mots dans l'oeuvre ainsi que leurs types. Dans mon analyse je n'ai quasiment utilisé que les formes-actives mais j'ai ajouté sous le dossier [csv](csv) les deux autres bases de données ([formes_supplémentaires.csv
+](csv/formes_supplÇmentaires.csv) et [total.csv](csv/total.csv)).
 
 #### Nuage de mots
 
@@ -82,4 +82,4 @@ On peut remarquer une certaine densité de mots ayant une forte fréquence d'app
 
 #### La question
 
-La réponse à la question du 6ème point se trouve en suivant ce lien : [en quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ?](/Question_digitalisation-oeuvre.md)
+La réponse à la question du 6ème point se trouve en suivant ce lien : [en quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ?](Question_digitalisation-oeuvre.md)
