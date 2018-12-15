@@ -7,8 +7,12 @@ L'oeuvre qui me fut donnée à l'étude fut un roman de *Paul Féval : La ville 
 Pour retrouver ce texte en ligne je me suis tournée vers wikisource et j'ai pu l'obtenir en version PDF. J'ai donc pu grâce à un extracteur de texte le convertir en document texte et le mettre en forme sur Sublime Text. 
 Le nettoyage et l'encodage du texte fut relativement simple, ayant fait cela par chapitre celui-ci n'en contenait que deux. 
 Cela donna donc : 
+
+---
 **** *PREMIÈRE 
  **** *DEUXIÈME PARTIE
+---
+
 
 ## Analyse du texte 
 
@@ -30,9 +34,11 @@ Cette analyse propose une classification hiérarchique descendante selon la mét
 
 Mon texte fut alors diviser en 4 classes différentes 
 
-(Voir image 1 et 2)
+![4 classes](dendro1.png)
+![4 classes](dendrogramme_1.png)
+![4 classes](dendrogramme_2.png)
 
-Afin de continuer mon analyse je me suis concentré sur la visualisation de données. 
+Afin de continuer mon analyse je me suis concentrée sur la visualisation de données. 
 
 ## Visualisation de données 
 
