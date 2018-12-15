@@ -32,6 +32,7 @@ D'un point de vue statistique, le logiciel Iramuteq nous donne tout d'abord des 
 * Nombre d'hapax : 7352 
 
 Concernant le nombre d'hapax (le nombre de forme qui n'apparaissent qu'une seule fois dans le texte), le logiciel indique qu'il correspond à 49,36% des formes totales du texte (et 2,41% des occurrences), soit pratiquement un mot sur deux qui n'est cité qu'une seule fois.  La représentation graphique produite par l'outil Statistique met en lumière ce nombre d'hapax et appuie cette idée de richesse du vocabulaire de Jules Verne qui sur plus de 600 pages a su utiliser une large variété de formes.
+
 ![diagramme statistique](img/statistique.png)
 
 ### Méthode Reinert
@@ -42,19 +43,23 @@ La méthode ALCESTE (Analyse des Lexèmes Cooccurrents dans un Ensemble de Segme
 * Classe 4 : champ lexical d'une ile
 * Classe 5 : champs lexical d'un roman
 * Classe 6 : champ lexical des animaux marins
+
 ![diagramme reinert](img/reinert.svg)
 
 ### Analyse des similitudes
 Tout comme la méthode Reinert, l'outil d'analyse des similitudes permet de mettre en lumière les liens, les similitudes entre les entités d'un corpus. Avec Iramuteq et après de nombreux tests graphiques, la représentation graphique la plus pertinente a été réalisé avec les formes qui sont le plus répétées (plus de 100 répétitions soit 62 formes), ainsi que la présentation fruchterman reingold. Elle nous indique cinq grands thèmes qui viennent compléter les classes de la méthode Reinert : 
+
 ![diagramme similitude](img/similitude.svg)
 En effet, on distingue de grandes entités déjà connues comme Nemo, Capitaine, Ned, Mer et une autre qui manquait aux résultats de la méthode Reinert : Nautilus, élément très important dans le récit de Jules Verne.
 
 ### Nuage de mot
 Le nuage de mot vient affirmer les résultats des précédentes analyses puisqu'il met en valeur les formes les plus utilisés en les distinguant par leurs tailles. Pour ce faire, plusieurs tests ont été effectué avec des paramètres différents afin d'obtenir un résultat cohérent et lisible. Contrairement à l'analyse des similitudes où la sélection des formes s'est effectuée sur celle contant plus de 100 répétitions, ici le nuage de mot ne contiendra que les formes ayant été répété plus de 150 fois. Cela permet d'avoir un nombre de forme plus réduit et donc une meilleure lecture du nuage de mot : 
+
 ![nuage de mot](img/nuage.svg)
 
 ---
 
 ## Etape 3 : Visualisation des données
 Le logiciel Iramuteq produit un certain nombre de diagramme plus ou moins lisible. Ne pouvant ni modifier les couleurs, ni les emplacements des entités des diagrammes directement dans le logiciel, j'ai décidé d'utiliser Illustrator afin de produire une infographie à partir des données que j'ai pu analyser. J'ai voulu utiliser Gephi, mais après de nombreuses tentatives pour corriger l'erreur lié à la version de Java de mon ordinateur qui s'affiche au démarrage du logiciel, j'ai préféré me tourner vers Illustrator pour produire une visualisation plus propre des données.
+
 ![infographie](img/infographie.png)
