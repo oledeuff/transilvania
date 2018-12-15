@@ -3,8 +3,9 @@
 ## Récupération et mise en forme des données 
 
 
-L'oeuvre qui me fut donnée à l'étude fut un roman de *Paul Féval : La ville vampire.*
+L'oeuvre qui me fut donnée à l'étude fut un roman de *Paul Féval : La ville vampire.* 
 Pour retrouver ce texte en ligne je me suis tournée vers wikisource et j'ai pu l'obtenir en version PDF. J'ai donc pu grâce à un extracteur de texte le convertir en document texte et le mettre en forme sur Sublime Text. 
+Version epub disponible [ici](La Ville Vampire.epub)
 Le nettoyage et l'encodage du texte fut relativement simple, ayant fait cela par chapitre celui-ci n'en contenait que deux. 
 Cela donna donc : 
 
@@ -63,4 +64,4 @@ Dans le but de rester dans la visualisation de données j'ai donc également ré
 
 Afin de voir juste un apperçu de ce que pourrait être cette infographie si nous voulions en réaliser une sur cette oeuvre j'ai imaginé une idée de création sur Indesign
 
-![Infographie](La ville vampire.pdf)
+![Infographie](La ville vampire.jpg)
