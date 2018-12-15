@@ -63,5 +63,4 @@ Dans le but de rester dans la visualisation de données j'ai donc également ré
 
 Afin de voir juste un apperçu de ce que pourrait être cette infographie si nous voulions en réaliser une sur cette oeuvre j'ai imaginé une idée de création sur Indesign
 
-Voir image 
-
+![Infographie](La ville vampire.pdf)
