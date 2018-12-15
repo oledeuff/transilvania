@@ -46,17 +46,18 @@ Afin de continuer mon analyse je me suis concentrée sur la visualisation de don
 
 Pour l'analyse des similitudes sans toucher aux paramètres cela n'était pas très lisible :
 
-Voir image 
-
+![Similitude 1](graph_simi_1.png)
 Mais en réduisant le nombre de formes et en modifiant des paramètre comme halo ou communauté nous arrivons au fur et à mesure à un résultat plus convaincants :
 
-Autres images :
+![Similitude 2](graph_simi_2.png)
+![Similitude 3](graph_simi_3.png)
+![Similitude 4](graph_simi_4.png)
 
 ### Nuage de mots 
 
 Dans le but de rester dans la visualisation de données j'ai donc également réaliser une visualisation grâce au nuage de mots :
 
-Voir image 
+![Nuage de mots](nuage_1.png)
 
 ### Infographie 
 
