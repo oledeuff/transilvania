@@ -1,6 +1,6 @@
-#Document explicatif
+# Document explicatif
 
-##Récupération et mise en forme des données 
+## Récupération et mise en forme des données 
 
 
 L'oeuvre qui me fut donnée à l'étude fut un roman de *Paul Féval : La ville vampire.*
@@ -21,7 +21,7 @@ Nombre d'occurences : 45073
 Nombre de formes : 4720
 Nombre d'hapax : 2153
 
-(Voir image)
+![Général](zipf.png)
 
 ## Classification
 
