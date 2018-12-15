@@ -1,11 +1,11 @@
 # Analyse textuelle : Vingt mille lieues sous les mers - Jules Verne
 
-*Vingt mille lieues sous les mers* est un roman de Jules Verne qui fait partie de la collection Voyages extraordinaires éditée par Pierre-Jules Hetzel. Passionnée par la mer, Jules Verne décide d'en faire l'héroïne de son livre qui raconte l'histoire de trois hommes qui partent affronter un monstre marin. Une analyse textuelle effectuée avec le logiciel Iramuteq a permis de mettre en lumière les thématiques abordées dans l'ouvrage. Le déroulement de cette analyse est déccrit étape par étape : 
+*Vingt mille lieues sous les mers* est un roman de Jules Verne qui fait partie de la collection *Voyages extraordinaires* éditée par Pierre-Jules Hetzel. Passionné par la mer, Jules Verne décide d'en faire l'héroïne de son livre qui raconte l'histoire de trois hommes qui partent affronter un monstre marin. Une analyse textuelle effectuée avec le logiciel Iramuteq a permis de mettre en lumière les thématiques abordées dans l'ouvrage. Le déroulement de cette analyse est décrit étape par étape : 
 
 ---
 
 ## Etape 1 : Récupération et optimisation du texte
-Le texte de *Vingt mille lieues sous les mers* est disponible dans la bibliothèque numérique Wikisource : [ici](https://fr.wikisource.org/wiki/Vingt_mille_lieues_sous_les_mers). Il a donc été téléchargé en format ePub puis convertie en format texte. Une fois que le texte a été mis au bon format, la suppression des espaces en trop, des retour à la ligne et des légendes a permis de pouvoir l'optimiser pour Iramuteq. En effet, l'ouvrage comportant plus de 40 chapitres, la suppresion de tout ces espaces inutiles a facilité la mise en place des variables qui indique au logiciel les différentes sections du texte. Pour effectuer toutes les analyses principales sur l'ouvrage, il était important de tout d'abord diviser le texte en deux parties (comme dans l'original) grâce aux variables : 
+Le texte de *Vingt mille lieues sous les mers* est disponible dans la bibliothèque numérique Wikisource : [ici](https://fr.wikisource.org/wiki/Vingt_mille_lieues_sous_les_mers). Il a donc été téléchargé en format ePub puis converti en format texte. Une fois que le texte a été mis au bon format, la suppression des espaces en trop, des retour à la ligne et des légendes a permis de pouvoir l'optimiser pour Iramuteq. En effet, l'ouvrage comportant plus de 40 chapitres, la suppresion de tout ces espaces inutiles a facilité la mise en place des variables qui indique au logiciel les différentes sections du texte. Pour effectuer toutes les analyses principales sur l'ouvrage, il était important de tout d'abord diviser le texte en deux parties (comme dans l'original) grâce aux variables : 
 
 ```
 **** *Part1
@@ -17,7 +17,7 @@ Puis chaque partie a été divisé en fonction de son nombre de chapitre avec le
 -*Chap02
 -*Chap03
 ```
-Une fois le texte optimisé pour Iramuteq, il a été enregistré dans le dossier texte sous le nom vingt_mille_lieues_sous_les_mers.txt comme le fichier ePub original. Le texte a ensuite été importé dans le logiciel pour commencer l'analyse. 
+Une fois le texte optimisé pour Iramuteq, il a été enregistré dans le dossier texte sous le nom vingt_mille_lieues_sous_les_mers.txt [disponible ici](texte/vingt_mille_lieues_sous_les_mers.txt) comme le fichier ePub original [disponible ici](texte/vingt_mille_lieues_sous_les_mers.epub) et le fichier CSV comportant toutes les occurrences [disponible ici](texte/occurrences.csv). Le texte a ensuite été importé dans le logiciel pour commencer l'analyse. 
 
 ---
 
